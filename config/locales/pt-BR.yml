@@ -1,0 +1,13 @@
+pt-BR:
+  maini:
+    auth:
+      token:
+        format_error: "A requisição precisa ser em JSON"
+        request_login_and_password: "É obrigatório enviar o login e a senha."
+        request_device_register: "É obrigatório enviar o registro do dispositivo."
+        request_device_platform: "É obrigatório enviar a plataforma."
+        invalid_login: "Login inválido."
+        invalid_password: "Senha inválida."
+        user_not_found: "Usuário não encontrado"
+        device_not_found: "Dispositivo não encontrado"
+        invalid_token: "Token inválido"

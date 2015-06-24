@@ -1,0 +1,13 @@
+en:
+  maini:
+    auth:
+      token:
+        format_error: "The request must be json"
+        request_login_and_password: "The request must contain the user login and password."
+        request_device_register: "The request must contain the device register."
+        request_device_platform: "The request must contain the device platform."
+        invalid_login: "Invalid login."
+        invalid_password: "Invalid password."
+        user_not_found: "User not found"
+        device_not_found: "Device not found"
+        invalid_token: "Invalid Token"
